@@ -1,0 +1,6 @@
+# Ignore FAISS vector store
+faiss_index_/
+
+# Ignore PDF documents
+documents/
+.DS_Store
